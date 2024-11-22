@@ -2,8 +2,7 @@
 
 # Projeto de Mestrado: Detecção e Interpretação de CNVs em Dados de Exoma
 
-Este repositório contém os arquivos, scripts e documentos relacionados ao projeto de mestrado intitulado:  
-**"Estabelecimento de algoritmo para extração e estruturação de campos de texto livre de prontuários eletrônicos e modelo preditivo de resposta ao esquema de tratamento em pacientes com câncer de mama".**
+Este repositório contém os arquivos, scripts e documentos relacionados ao projeto de mestrado
 
 ## Objetivo do Projeto
 
