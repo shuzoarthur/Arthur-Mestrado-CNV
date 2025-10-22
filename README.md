@@ -101,11 +101,3 @@ Os principais resultados do pipeline incluem:
 - [Documentação do GATK-gCNV](https://gatk.broadinstitute.org/)
 
 ---
-
-## Contribuição
-
-Contribuições são bem-vindas! Por favor, abra uma *issue* ou envie um *pull request* para sugestões ou melhorias.
-
----
-
-Se precisar de personalizações, posso ajustar conforme sua necessidade! 😊
